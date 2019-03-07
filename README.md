@@ -57,4 +57,4 @@ and
 ```
 roslaunch ball_chaser ball_chaser.launch
 ```
-Off course these two command can be combined into single launch file.
+Off course these two commands can be combined into a single launch file.
