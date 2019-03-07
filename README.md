@@ -47,3 +47,14 @@ In this project, two ROS packages are created: the drive_bot and the ball_chaser
     │   ├── CMakeLists.txt             # compiler instructions
     │   ├── package.xml                # package info
 ```
+
+## How to run it
+Execute these two commands into two different terminals:
+```
+roslaunch my_robot world.launch
+```
+and 
+```
+roslaunch ball_chaser ball_chaser.launch
+```
+Off course these two command can be combined into single launch file.
