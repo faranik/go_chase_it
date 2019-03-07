@@ -1,5 +1,5 @@
 #include "ros/ros.h"
-#include "DriveToTarget.h"
+#include "ball_chaser/DriveToTarget.h"
 #include <sensor_msgs/Image.h>
 
 // Define a global client that can request services
