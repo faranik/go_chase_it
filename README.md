@@ -1,6 +1,6 @@
 # Project Description
 
-This is a project as part of the robotics course offered by Udacity. It is about ROS and Gazebo usage for the robotics simulation environments.
+This project is part of the *Robotics Software Engineering* scholar course offered at Udacity.
 
 ## Summary of Tasks
 In this project, two ROS packages are created: the drive_bot and the ball_chaser. Here are the caracteristics of the designed robot and its environment:
