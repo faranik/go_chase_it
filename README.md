@@ -1,6 +1,6 @@
 # Project Description
 
-This project is part of the *Robotics Software Engineering* scholar course offered at Udacity.
+This project is part of the *Robotics Software Engineering* scholar course offered at Udacity. It explores, gazebo, rviz and ROS. 
 
 ## Summary of Tasks
 In this project, two ROS packages are created: the drive_bot and the ball_chaser. Here are the caracteristics of the designed robot and its environment:
